@@ -1,7 +1,7 @@
 # T1_POO
 ## Questões
 
-| Question | Description |
+| Nº da questão | Descrição |
 |---|---|
 |01| Receber e "printar" a soma de quatro números inteiros. |
 |02| Receber do  usuário 3 notas para que o sistema calcule e mostre a média aritimética entre elas. | 
